@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+    <title><![CDATA[plxOpengraph]]></title>
+	<author><![CDATA[Petitchevalroux]]></author>
+	<version>0.0.1</version>
+        <date>02/11/2014</date>
+	<site>http://petitchevalroux.net</site>
+        <description><![CDATA[Ajoute les balises opengraph sur les pages articles]]></description>
+	<requirements></requirements>
+</document>
