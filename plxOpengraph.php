@@ -94,7 +94,7 @@ class plxOpengraph extends plxPlugin
                 'title' => $this->getTitle($plxShow),
                 'description' => $this->getDescription($plxShow),
                 'image' => $this->getImage($plxShow),
-                'author' => $this->getAuthor($plxShow)
+                'author:username' => $this->getAuthor($plxShow)
             );
             foreach ($og as $property => $content) {
                 if (!empty($content)) {
